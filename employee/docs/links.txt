@@ -1,1 +1,6 @@
 userMs : https://www.javadevjournal.com/spring-security/registration-with-spring-security/
+
+
+DB : D:\MOZEMS\SPRING WORK SPACE\GIT APPS\Code4Dem-Dev-MS\DBC4D\UsersDetails
+DB : jdbc:sqlite:D:\MOZEMS\SPRING WORK SPACE\GIT APPS\Code4Dem-Dev-MS\DBC4D\UsersDetails
+DB : D:\MOZEMS\SPRING WORK SPACE\GIT APPS\Code4Dem-Dev-MS\DBC4D\UsersDetails
